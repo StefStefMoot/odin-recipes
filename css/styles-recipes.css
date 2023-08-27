@@ -1,0 +1,26 @@
+* {
+    background-color: bisque;
+    color: black;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    font-weight: 800;
+    font-family: Helvetica, "Times New Roman", serif;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+.heading,
+.list,
+li{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900px;
+    
+}

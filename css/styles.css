@@ -1,0 +1,17 @@
+* {
+    background-color: bisque;
+    text-align: center;
+    color: black;
+    
+}
+
+.heading {
+    font-weight: 800;
+    font-family: Helvetica, "Times New Roman", serif;
+    font-style: oblique;
+}
+
+.links {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
