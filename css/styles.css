@@ -5,13 +5,21 @@
     
 }
 
-.heading {
+#title {
     font-weight: 800;
     font-family: Helvetica, "Times New Roman", serif;
-    font-style: oblique;
+    text-align: center;
+    
 }
 
 .links {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipes {
+    font-weight: 800;
+    font-family: Helvetica, "Times New Roman", serif;
+    text-align: center;
 }
